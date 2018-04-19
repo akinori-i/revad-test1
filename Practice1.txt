@@ -2,6 +2,8 @@
 Can I have an ice coffee?
 (-> iced)
 
+ice coffee
+
 その日はアルバイトです．
 I have an arbeit that day.
 (part-time job)
