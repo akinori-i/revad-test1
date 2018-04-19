@@ -1,3 +1,3 @@
 int main (void){
-  foo = 3;
+  Foo = 3;
 }
