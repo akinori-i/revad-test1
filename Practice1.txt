@@ -1,19 +1,19 @@
 アイスコーヒーをください
-Can I have an ice coffee?
+Can I have an ice coffee? 
 (-> iced)
 
 その日はアルバイトです．
-I have an arbeit that day.
+I have an arbeit that day 
 (part-time job)
 
 ガソリンスタンドは近くにありますか？
-Is there a gasoline stand nearby?
+Is there a gasoline stand nearby? 
 (gas station)
 
 クレームをつけるべきです．
-You should claim about it.
+You should claim about it. 
 (complain)
 
 コンセントにプラグを差し込みなさい
-Put the plug into the concent.
+Put the plug into the concent. 
 (outlet)
