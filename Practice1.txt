@@ -2,10 +2,9 @@
 Can I have an ice coffee?
 (-> iced)
 
-その日はアルバイトです．
 (part-time job)
 
-test
+abc
 
 ガソリンスタンドは近くにありますか？
 Is there a gasoline stand nearby?
