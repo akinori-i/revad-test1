@@ -17,3 +17,5 @@ You should claim about it.
 コンセントにプラグを差し込みなさい
 Put the plug into the concent.
 (outlet)
+
+test
