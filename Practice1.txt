@@ -6,13 +6,14 @@ Can I have an ice coffee?
 I have an arbeit that day.
 (part-time job)
 
-ガソリンスタンドは近くにありますか？
 Is there a gasoline stand nearby?
 (gas station)
 
 クレームをつけるべきです．
 You should claim about it.
 (complain)
+
+test
 
 コンセントにプラグを差し込みなさい
 Put the plug into the concent.
