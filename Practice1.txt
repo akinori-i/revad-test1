@@ -2,9 +2,10 @@
 Can I have an ice coffee?
 (-> iced)
 
-その日はアルバイトです．
 I have an arbeit that day.
 (part-time job)
+
+teset
 
 ガソリンスタンドは近くにありますか？
 Is there a gasoline stand nearby?
