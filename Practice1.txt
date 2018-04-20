@@ -3,9 +3,7 @@ Can I have an ice coffee?
 (-> iced)
 
 その日はアルバイトです．
-I have an arbeit that day.
-(part-time job)
-
+¥
 ガソリンスタンドは近くにありますか？
 Is there a gasoline stand nearby?
 (gas station)
@@ -17,3 +15,5 @@ You should claim about it.
 コンセントにプラグを差し込みなさい
 Put the plug into the concent.
 (outlet)
+
+abc
