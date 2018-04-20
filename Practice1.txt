@@ -10,10 +10,11 @@ I have an arbeit that day.
 Is there a gasoline stand nearby?
 (gas station)
 
-クレームをつけるべきです．
 You should claim about it.
 (complain)
 
 コンセントにプラグを差し込みなさい
 Put the plug into the concent.
 (outlet)
+
+test
