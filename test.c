@@ -1,4 +1,4 @@
 int main (void){
-  foo = 0;
-  foo = 1;
+  Foo = 0;
+  Foo = 1;
 }
