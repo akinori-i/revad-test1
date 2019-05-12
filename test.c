@@ -1,4 +1,3 @@
 int main (void){
-  foo = 0;
-  foo = 1;
+  Foo = 3;
 }
